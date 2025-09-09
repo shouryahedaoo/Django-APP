@@ -2,12 +2,6 @@
 
 This project is a quiz application where users can take quizzes, view questions, and submit answers. Admin can manage questions.
 
-## Features
-- Add questions via Django admin
-- Display questions dynamically
-- User-friendly UI
-- Secure database storage
-
 ## Setup Instructions
 
 1. Clone the repository:  
